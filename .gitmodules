@@ -1,0 +1,24 @@
+[submodule "es-delivery-ci4d-introducing-okta"]
+	path = 01-intoducing-okta
+	url = https://github.com/OktaEdu/es-delivery-ci4d-introducing-okta.git
+[submodule "02-customizing-okta-hosted-siw"]
+	path = 02-customizing-okta-hosted-siw
+	url = https://github.com/OktaEdu/es-delivery-ci4d-customizing-okta-hosted-siw
+[submodule "03-exploring-authentication-protocol-flows"]
+	path = 03-exploring-authentication-protocol-flows
+	url = https://github.com/OktaEdu/es-delivery-ci4d-exploring-authentication-protocol-flows
+[submodule "04-exploring-the-okta-data-model"]
+	path = 04-exploring-the-okta-data-model
+	url = https://github.com/OktaEdu/es-delivery-ci4d-exploring-the-okta-data-model
+[submodule "05-implementing-self-service-registration"]
+	path = 05-implementing-self-service-registration
+	url = https://github.com/OktaEdu/es-delivery-ci4d-implementing-self-service-registration
+[submodule "06-migrating-and-managing-users"]
+	path = 06-migrating-and-managing-users
+	url = https://github.com/OktaEdu/es-delivery-ci4d-migrating-and-managing-users
+[submodule "07-securing-your-environment-with-policies-and-mfa"]
+	path = 07-securing-your-environment-with-policies-and-mfa
+	url = https://github.com/OktaEdu/es-delivery-ci4d-securing-your-environment-with-policies-and-mfa
+[submodule "08-authenticating-to-okta-from-external-idps"]
+	path = 08-authenticating-to-okta-from-external-idps
+	url = https://github.com/OktaEdu/es-delivery-ci4d-authenticating-to-okta-from-external-idps
