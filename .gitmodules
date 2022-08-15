@@ -1,4 +1,4 @@
-[submodule "es-delivery-ci4d-introducing-okta"]
+[submodule "01-introducing-okta"]
 	path = 01-intoducing-okta
 	url = https://github.com/OktaEdu/es-delivery-ci4d-introducing-okta.git
 [submodule "02-customizing-okta-hosted-siw"]
